@@ -1,8 +1,10 @@
 **Binary Classification**
-Binary Classification with a Tabular Employee Attrition Dataset
-The dataset for this competition (both train and test) was generated from a deep learning model trained on a Employee Attrition. Feature distributions are close to, but not exactly the same, as the original. Feel free to use the original dataset as part of this competition, both to explore differences as well as to see whether incorporating the original in training improves model performance.
 
-Files
-train.csv - the training dataset; Attrition is the binary target
-test.csv - the test dataset; your objective is to predict the probability of positive Attrition
-sample_submission.csv - a sample submission file in the correct format
+
+Бинарная классификация с использованием табличного набора данных о выбытии сотрудников
+Набор данных для этого соревнования (как тренировочного, так и тестового) был создан на основе модели глубокого обучения, разработанной на выбытии сотрудников. Распределение признаков близко к исходному, но не совсем совпадает с ним. Не стесняйтесь использовать исходный набор данных в рамках этого конкурса, чтобы изучить различия, а также посмотреть, улучшит ли использование оригинала в обучении производительность модели.
+
+Файлы
+train.csv — обучающий набор данных; «Утрата» — это бинарная цель
+test.csv — тестовый набор данных; ваша задача — предсказать вероятность положительной «Утраты»
+sample_submission.csv — пример файла для отправки в правильном формате
